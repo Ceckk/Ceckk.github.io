@@ -1,9 +1,9 @@
 const cacheName = "FinifuguGames-AnimalExpress-0.2.3";
 const contentToCache = [
     "Build/AnimalExpress.loader.js",
-    "Build/AnimalExpress.framework.js.gz",
-    "Build/AnimalExpress.data.gz",
-    "Build/AnimalExpress.wasm.gz",
+    "Build/AnimalExpress.framework.js.unityweb",
+    "Build/AnimalExpress.data.unityweb",
+    "Build/AnimalExpress.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
