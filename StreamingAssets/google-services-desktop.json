@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640410394480",
+    "project_id": "animal-express-1cb92",
+    "storage_bucket": "animal-express-1cb92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640410394480:android:cbf37533921b90481db9b5",
+        "android_client_info": {
+          "package_name": "com.FinifuguGames.google.AnimalExpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPm6QpO2pvlZLGP-S3Iuphidt-bizEmmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
